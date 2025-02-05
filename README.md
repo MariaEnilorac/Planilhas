@@ -24,7 +24,7 @@ Cada planilha é estruturada com os seguintes elementos:
 ## 🚀 Como Usar
 1. Baixe a planilha desejada.
 2. Abra no Excel ou em um software compatível.
-3. Insira seus dados conforme a estrutura indicada.
+3. Insira seus dados conforme a estrutura indicada no arquivo de texto "como utilizar".
 4. Utilize os filtros, gráficos e fórmulas para análise e acompanhamento.
 
 ## 📌 Contribuição
